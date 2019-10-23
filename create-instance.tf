@@ -37,4 +37,4 @@ resource "aws_instance" "terra-db" {
     Name = "terraform-db-server"
   }
 }
-#TEST NOT PASSED
+#DEV FIX
