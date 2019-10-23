@@ -38,7 +38,7 @@ resource "aws_instance" "terra-db" {
   }
 }
 <<<<<<< HEAD
-#BRANCH NEW-FEATURE
+#HELLO DEVELOPER
 =======
-#BRANCH MASTER
->>>>>>> master
+#HELLO TESTER
+>>>>>>> tester
