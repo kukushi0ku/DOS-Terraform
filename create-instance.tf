@@ -37,4 +37,4 @@ resource "aws_instance" "terra-db" {
     Name = "terraform-db-server"
   }
 }
-#HELLO DEVELOPER
+#TEST NOT PASSED
