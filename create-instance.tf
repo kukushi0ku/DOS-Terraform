@@ -38,4 +38,3 @@ resource "aws_instance" "terra-db" {
   }
 }
 #HELLO DEVELOPER
-#HELLO TESTER
